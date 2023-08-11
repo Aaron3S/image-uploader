@@ -1,0 +1,8 @@
+{
+  "name": "imgjs",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "imgbox-js": "^1.0.35"
+  }
+}
